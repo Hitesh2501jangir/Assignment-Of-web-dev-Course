@@ -1,0 +1,5 @@
+Ans 1 :- A database is a structured collection of data organized in a 	 way that makes it easy to manage, access, and update. It is 	 designed to efficiently store, retrieve, and manipulate 	 data, providing a systematic and organized approach to data 	 management. Databases are crucial in various applications 	 	 and industries where large amounts of data need to be stored 	 and accessed in a scalable and reliable manner.
+
+	Example :-
+
+	Imagine a business that sells products. Without a database, 	the information about products, customers, and sales would be 	scattered across various files or documents. Managing and 	retrieving this information would be time-consuming and 	error-prone. 

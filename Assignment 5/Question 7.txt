@@ -1,0 +1,37 @@
+Ans 7 :-
+
+1.External Schema (User View):
+->This schema represents how the data is viewed by the end-users or application programs. It defines the specific data and relationships that a particular user or group of users can access. Each user or application has their own external schema tailored to their information needs.
+
+Advantages:
+
+->Customization: Allows different users or applications to have customized views of the data, showing only the relevant information for their specific tasks.
+
+->Data Security: Provides a level of security by restricting access to specific portions of the database, ensuring that users can only interact with the data they are authorized to access.
+
+->Ease of Use: Simplifies data access for end-users by presenting a tailored view that aligns with their requirements, hiding unnecessary complexities.
+
+
+2.Conceptual Schema (Community View):
+->The conceptual schema represents the overall logical structure of the entire database as perceived by the database administrator or designer. It includes entities, relationships, and constraints without specifying how the data is physically stored or accessed. The conceptual schema serves as a high-level, abstract representation of the data model.
+
+Advantages:
+
+->Data Independence: Separates the logical representation of data from its physical implementation, providing a level of abstraction that allows for changes to be made without affecting the external schemas.
+
+->Unified View: Presents a unified, consistent view of the entire database structure, facilitating communication between different stakeholders involved in database design and management.
+
+->Facilitates Changes: Simplifies the process of modifying the database structure in response to changing business requirements, as changes can be made at the conceptual level without affecting external views.
+
+
+
+3.Internal Schema (Physical Storage View):
+->The internal schema represents the physical storage and access mechanisms for the database. It defines how data is stored on the storage media, including details such as indexes, data organization, and storage structures.
+
+Advantages:
+
+->Optimization: Enables the optimization of database performance by specifying storage structures, indexing strategies, and access paths based on the physical characteristics of the underlying hardware.
+
+->Security Implementation: Allows for the implementation of security measures at the physical level, controlling access to data files, storage devices, and other low-level components.
+
+->Physical Data Independence: Changes to the physical storage structure do not impact the conceptual or external schemas, providing a level of independence between the different schema levels.

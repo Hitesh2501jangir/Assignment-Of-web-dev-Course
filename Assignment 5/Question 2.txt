@@ -1,0 +1,10 @@
+Ans 2 :- A file-based storage system is an older approach to data 		 management where information is stored in individual files 	 without the use of a centralized database. Each file 	 contains specific data related to a particular application  	 or task, and the files are typically organized within a 	 hierarchical directory structure.
+
+
+	Major Challanges :-
+
+	1.File Hierarcy
+	2.Data Format
+	3.Limited Data Relationships
+	4.Data Redundancy
+	5.Limited Query Capabilities

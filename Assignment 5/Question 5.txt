@@ -1,0 +1,15 @@
+Ans 4 :-
+
+Types of classification of DBMS-->
+
+1.Relational
+  Ex-1.MySQL
+     2.PostgreSQL
+     3.Oracle DB
+     4.Microsoft SQL server
+
+2.Non-Relational
+  Ex-1.MongoDB (Document-Oriented)
+     2.Cassandra (Column-Family)
+     3.Redis (Key-Value)
+     4.Neo4j (Graph)

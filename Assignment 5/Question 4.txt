@@ -1,0 +1,37 @@
+Ans 4 :- 
+
+1.Data Redundancy and Inconsistency:
+
+->Challenge in File-Based Systems: Data redundancy was common as the same information might be duplicated in multiple files. Inconsistencies could arise if updates were not consistently applied across all relevant files.
+
+->DBMS Solution: DBMS employs normalization techniques to minimize redundancy, and it enforces data integrity constraints to ensure consistency. With a centralized database, updates and changes are applied uniformly.
+
+
+2.Limited Data Retrieval and Query Capabilities:
+
+->Challenge in File-Based Systems: Retrieving specific information from file-based systems required custom programming, and there was no standardized query language. This made data retrieval cumbersome.
+
+->DBMS Solution: DBMS provides a standardized query language, such as SQL (Structured Query Language), allowing users to query and retrieve data easily. Indexing mechanisms also enhance the efficiency of data retrieval.
+
+
+
+3.Data Isolation and Lack of Integration:
+
+->Challenge in File-Based Systems: Each application managed its own set of files, leading to isolated data islands. Sharing and integrating information between applications were challenging.
+
+->DBMS Solution: DBMS facilitates data integration by providing a centralized repository. Relationships between different sets of data can be established, allowing for more efficient sharing and integration of data between various applications.
+
+
+
+4.Difficulty in Data Maintenance:
+
+->Challenge in File-Based Systems: Making changes to the structure or format of data often required modifications to multiple programs, leading to maintenance challenges.
+
+->DBMS Solution: DBMS introduces data independence, separating the logical structure of data from its physical storage. This allows for easier modifications without affecting the application programs, improving overall data maintenance.
+
+
+5.Concurrency Control Issues:
+
+->Challenge in File-Based Systems: When multiple users attempted to access or modify data simultaneously, file-based systems faced issues related to concurrency control. This could result in data inconsistency.
+
+->DBMS Solution: DBMS implements concurrency control mechanisms to ensure that multiple users can work with the data concurrently without compromising its integrity. Techniques like locking and transactions are employed to manage concurrent access.

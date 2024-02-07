@@ -1,0 +1,8 @@
+Ans 3 :- DBMS stands for Data Base Management 	 System.
+	 The development and widespread 	 adoption of Database Management 	 Systems (DBMS) were driven by 	 several needs and challenges 	 associated with traditional file- 	 based data management systems. Here 	 are some key factors that highlight 	 the need for DBMS
+
+	Example :-
+	1.Security
+	2.Data Relationship
+	3.Data Redundancy problem solve
+	4.Structural data Management
